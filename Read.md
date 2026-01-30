@@ -1,0 +1,3 @@
+- For the class.js i wanted making it in a form that it can also return a "can not apply: drivers limit reached." when more than a certain ammount of drivers apply. but im somehow stuck for now. im yet to figgure out 
+- where to insert the limited number,
+- how to channel my console generate the response.
